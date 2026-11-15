@@ -1,2 +1,3 @@
 # C-Basics
-Small codes,big dreams.
+This is my first repository
+Author-Fawjia Nasrin
